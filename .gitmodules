@@ -1,0 +1,6 @@
+[submodule "kaizen-flashcards-client"]
+	path = kaizen-flashcards-client
+	url = https://github.com/sord-dev/kaizen-flashcards-client.git
+[submodule "kaizen-flashcards-api"]
+	path = kaizen-flashcards-api
+	url = https://github.com/sord-dev/kaizen-flashcards-api.git
