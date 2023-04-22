@@ -1,7 +1,7 @@
 # Kaizen Flashcards
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/75338985/233802920-7ff49e8c-59e6-4714-8471-1f44a3104eff.gif">
+  <img src="https://user-images.githubusercontent.com/75338985/233802920-7ff49e8c-59e6-4714-8471-1f44a3104eff.gif">
 </p>
 
 ## Description
