@@ -1,5 +1,7 @@
 # Kaizen Flashcards
 
+![theme](https://user-images.githubusercontent.com/75338985/233802475-ab2eb41d-73ea-4947-8093-ed801689a72b.gif)
+
 ## Description
 
 This is the client side of the Kaizen project. It is a web application designed to help users learn japanese by utilizing spaced repetition as a revision technique. It is built using React.
