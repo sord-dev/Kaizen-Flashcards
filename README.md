@@ -112,32 +112,3 @@ The site features a dark mode button that allows users to switch between light a
 
 One of the early discussed features was a Calender. This would allow users to schedule when they would like to learn their cards. This would be a great feature to add in the future as it would allow users to plan their revision and make sure they are learning the cards at the right time. As well as see when they should expect to be tested on the cards.
 
-Another feature was the idea of a user profile page where users could see their statistics and progress. This would be a great feature to add in the future as it would allow users to see how they are doing and how they can improve. As well as see how they are doing compared to other users. In the end, the statistics page was added instead of a user profile page.
-
-## Bugs and Conflicts
-
-## Local Installation
-
-To install the client end of the application locally, follow these steps:
-
-1. Clone the repository from GitHub using the following command:
-
-`git clone (REPO LINK)`
-
-2. Navigate to the project directory using CD in the terminal.
-
-3. Install the required dependencies using the following command:
-
-`npm install`
-
-4. Start the application using the following command:
-
-`npm start`
-
-5. The application should now be running on localhost:5173
-
-## Credits
-
-
-
-
