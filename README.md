@@ -6,7 +6,7 @@
 
 ## Description
 
-This is the client side of the Kaizen project. It is a web application designed to help users learn japanese by utilizing spaced repetition as a revision technique. It is built using React.
+This is the client side of the Kaizen project. It is a web application designed to help users learn more efficently by utilizing spaced repetition as a revision technique. It is built using React.
 
 ## Stake Holders
 
